@@ -1,0 +1,51 @@
+.contents_title_large {font-family: "Noto Serif KR", serif;
+    font-size: 80px; font-weight: 600; line-height: 100%; letter-spacing: -1px;}
+.contents_title_medium {font-family: "Noto Serif KR", serif;
+    font-size: 48px; font-weight: 700; line-height: 120%; letter-spacing: -1px;}
+.contents_title_small {font-family: "Noto Serif KR", serif;
+    font-size: 24px; font-weight: 700; line-height: 140%; letter-spacing: -1px;}
+
+.contents_article_xlarge {font-family: pretendard, sans-serif;
+    font-size: 26px; font-weight: 700; line-height: 120%; letter-spacing: -1.5px;}
+.contents_article_large {font-family: pretendard, sans-serif;
+    font-size: 24px; font-weight: 600; line-height: 140%; letter-spacing: -1.5px;}
+.contents_article_medium {font-family: pretendard, sans-serif;
+    font-size: 20px; font-weight: 600; line-height: 140%; letter-spacing: -0.5px;}
+.contents_article_small {font-family: pretendard, sans-serif;
+    font-size: 18px; font-weight: 500; line-height: 120%; letter-spacing: -0.5px}
+.contents_article_xsmall {font-family: pretendard, sans-serif;
+    font-size: 16px; font-weight: 500; line-height: 130%; letter-spacing: -0.5px}
+
+
+.btn_navy {font-family: pretendard, sans-serif;
+    font-size: 16px; font-weight: 800; line-height: 100%; letter-spacing: -1px;
+    display: inline-block; padding: 8px 46px;
+    height: 46px; line-height: 46px; transition: .3s; flex-grow: 0; width: auto;
+    color: #FAF9F6; background: #1D2F4E;}
+.btn_navy:hover {background: #FAF9F6; color: #1D2F4E;}
+
+.btn_white {font-family: pretendard, sans-serif;
+    font-size: 16px; font-weight: 800; line-height: 100%; letter-spacing: -1px;
+    display: inline-block; padding: 8px 46px;
+    height: 46px; line-height: 46px; transition: .3s; 
+    color: #1D2F4E; background:#FAF9F6}
+.btn_white:hover {background: #1D2F4E; color: #FAF9F6;}
+
+.btn_border {font-family: pretendard, sans-serif;
+    font-size: 16px; font-weight: 800; line-height: 100%; letter-spacing: -1px;
+    display: inline-block; padding: 8px 46px;
+    height: 46px; line-height: 46px; transition: .3s; border: 1px solid #1d2f4e ;
+    color: #1D2F4E; }
+.btn_border:hover {background: #1D2F4E; color: #FAF9F6;}
+
+.click_box {width: 100%; height: 100%; background: rgba(255, 0, 0, 0.5);
+    position: absolute; top: 0; left: 0;
+} /* <a href="#" class="click_box"></a> 넣고, 넣은 객체에 position: relative; 넣어주기  */
+
+
+
+
+
+
+
+
